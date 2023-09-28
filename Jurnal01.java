@@ -22,3 +22,5 @@ public class Jurnal01 {
 
     }
 }
+
+// Done
