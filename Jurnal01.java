@@ -16,8 +16,11 @@ public class Jurnal01 {
         KELAS = input.nextLine();
 
         System.out.println("--------------");
+        
         System.out.println("NAMA SAYA = " + NAMA);
+
         System.out.println("NIM SAYA = " + NIM);
+        
         System.out.println("KELAS SAYA = " + KELAS);
 
     }
